@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "1011461851420",
+    "project_id": "react-native-auth-7d67e",
+    "storage_bucket": "react-native-auth-7d67e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1011461851420:android:7dba3ae70459339e6692d9",
+        "android_client_info": {
+          "package_name": "com.bwstory"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1011461851420-lbq2ksgmjkhjerglah8ecck9a2gpvjne.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMLP7IlOIJkqYzc6qlhPDCc_LZoPmpqQ0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1011461851420-lbq2ksgmjkhjerglah8ecck9a2gpvjne.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1011461851420-mm0nn10n1vqh61k786g86mj2fi07vb1g.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.bwstory"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
